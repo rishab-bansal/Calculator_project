@@ -1,0 +1,25 @@
+#input{
+    margin-top: 10px;
+    
+    font-size: 50px;
+    
+    text-align:right;
+
+    background-color: lightgray;
+
+    color: black;
+    
+}
+
+#h{
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+#cont{
+    background-color: gray;
+    margin-top:70px;
+    margin-bottom:70px;
+    /* border:10px solid black; */
+    padding:2%;
+}
